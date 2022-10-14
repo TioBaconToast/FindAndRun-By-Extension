@@ -1,7 +1,7 @@
 # FindAndRun-By-Extension
 
-This is a simple script for Find and run any file with required extension
+This is a simple script for Finding and running any file found in its directory and subdirectories with a specific extension.
 
-File extensions can be customized by changin variable   findEXT = "txt" to the extension files you want to find and run 
+User can  customize Files extensions to find and run by changin variable  findEXT = "txt" to the extension files you want to find and run 
 
 Also a LOG file will be created with the file names found.
